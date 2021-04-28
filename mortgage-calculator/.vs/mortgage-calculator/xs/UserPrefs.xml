@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{22D24895-1001-4681-8AE0-D75DB6A92851}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="mortgage-calculator-tests/MortgageTests.cs">
+    <Files>
+      <File FileName="mortgage-calculator/Program.cs" Line="15" Column="60" />
+      <File FileName="mortgage-calculator/Mortgage.cs" Line="3" Column="19" />
+      <File FileName="mortgage-calculator-tests/UnitTest1.cs" Line="1" Column="9" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mortgage-calculator" expanded="True">
+            <Node name="mortgage-calculator" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="mortgage-calculator-tests" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="mortgage-calculator" expanded="True">
+            <Node name="mortgage-calculator-tests" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.mortgage-calculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
